@@ -24,7 +24,7 @@ This assignment gives some examples using the application and puts the example i
 
 ### Project structure
 ```
-COMPO210Assignment1/
+Assignment1/
 ├── app/                # Application code (ImageReconstructor, FrequencyReconstructor)
 ├── external/           # The external lib include CLI11
 ├── Optimisation/       # Library code (functions, operators, algorithms)
