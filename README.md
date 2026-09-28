@@ -1,7 +1,7 @@
 # Image Reconstruction
 
-## COMP0210 Assignment 1 Intro
-This repository contains Assignment 1 of the COMP0210 module, which uses the C++ language. The main goal of this project is to achieve image reconstruction, and some examples are given in this document. This project implements a general optimization method by building differentiable, non-differentiable functions and linear operators and uses the FFTW library for Fourier and DCT transforms. Applications include deblurring, subsampling reconstruction, and frequency space recovery.
+## Assignment 1 Intro
+This repository contains Assignment 1 of the C++ module at UCL, which uses the C++ language. The main goal of this project is to achieve image reconstruction, and some examples are given in this document. This project implements a general optimization method by building differentiable, non-differentiable functions and linear operators and uses the FFTW library for Fourier and DCT transforms. Applications include deblurring, subsampling reconstruction, and frequency space recovery.
 
 This project is compiled using CMake, requiring at least CMake version 3.28 and C++17.
 
