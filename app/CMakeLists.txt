@@ -1,0 +1,6 @@
+include_directories(${CMAKE_SOURCE_DIR}/external)
+add_executable(ImageReconstructor ImageReconstructor.cpp)
+target_link_libraries(ImageReconstructor PUBLIC OptimisationLib)
+
+add_executable(FrequencyReconstructor FrequencyReconstructor.cpp)
+target_link_libraries(FrequencyReconstructor PUBLIC OptimisationLib)
